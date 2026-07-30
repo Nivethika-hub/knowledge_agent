@@ -1,0 +1,3 @@
+"""
+app.knowledge package initialization.
+"""
